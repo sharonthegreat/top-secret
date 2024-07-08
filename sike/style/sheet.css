@@ -1,0 +1,16 @@
+body{
+    background-image:url("https://img.freepik.com/free-photo/pile-3d-facebook-logos_1379-875.jpg?t=st=1720421612~exp=1720425212~hmac=03a1df6055dfade5f12af84b3d3642f0b87723e53e2ae86a44fb0af56dfb6e36&w=996");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4{
+    color: rgb(22, 174, 103);
+}
+.box1{
+    border: 2px solid red;
+    margin: 30%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-left: 15%;
+    padding-right: 10%;
+}

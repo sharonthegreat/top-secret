@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/pile-3d-facebook-logos_1379-875.jpg?t=st=1720421612~exp=1720425212~hmac=03a1df6055dfade5f12af84b3d3642f0b87723e53e2ae86a44fb0af56dfb6e36&w=996");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    margin-left: 40%;
+    margin-top: 10%;
+
+}
+
+.box{
+    border: 2px solid red;
+   margin: 2% 35%; 
+  padding: 1% 10%;
+background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fi-just-spent-a-week-with-a-robot-cat-and-my-life-will-never-be-the-same%2F&psig=AOvVaw2MQfq_fm69IH0xILfaLcky&ust=1720510600930000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjKoND3locDFQAAAAAdAAAAABAE");
+    
+}
+
+.box input{
+    border-radius: 0.5em;
+    height: 20px;
+}
